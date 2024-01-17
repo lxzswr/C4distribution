@@ -30,8 +30,8 @@ load([code_data_dir,'/master_data_c4.mat']);
 %'constraint_slope_un': the uncertainty of the emergent constraint slopes between C4 area and C4 GPP
 %'dgvm_c4_grass_1D': the percentage of C4 grass over vegetated surface estimated from 11 DGVMs
 %'dgvm_c4_grass_gpp_1D': the percentage of C4 grass GPP over global GPP from 11 DGVMs
-%'dgvm_c4_crop_1D': the percentage of C4 crop over global vegetated surfce from 8 DGVMs
-%'dgvm_c4_crop_gpp_1D': the percentage of C4 crop GPP over global GPP from 8 DGVMs
+%'dgvm_c4_crop_1D': the percentage of C4 crop over global vegetated surfce from 7 DGVMs
+%'dgvm_c4_crop_gpp_1D': the percentage of C4 crop GPP over global GPP from 7 DGVMs
 %'trendy_c4': the spatial distribution of C4 grass, C4 crop and total C4 for all 11 DGVMs from 1992 to 2019.
 
 
